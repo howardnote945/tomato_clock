@@ -1,0 +1,12 @@
+{
+  "name": "Celestial Pomodoro",
+  "description": "A cozy Pomodoro timer that adapts its aesthetic and vibes based on your Zodiac sign and local weather.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "AI Personalization",
+    "Weather Integration",
+    "Audio Playback"
+  ]
+}
